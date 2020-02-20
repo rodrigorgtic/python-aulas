@@ -1,6 +1,6 @@
 """ 
   > TASK 3:
-  Crie um algoritmo que leia um número e mostre o seu dobro, triplo e a raiz quadrada.
+  Crie um algoritmo que leia um número e mostre o seu dobro e triplo.
 """
 
 n = int(input('Digite um número: '))
